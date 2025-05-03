@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*{
+  font-family: 'Poppins';
+}
+
+.nav-text{
+    font-size: 13px;
+}
+.nav-text div:hover{
+    transform: scale(1.06);
+    transition: .4s ease-in-out;
+}
+.inpt{
+    font-family: 'Poppins'; 
+    font-size: 12px;
+    padding: 7px;
+    border: none;
+}
+.inpt:focus{
+    outline: none;
+    border: none;
+    box-shadow: none;
+}
+.brand-ic{
+    height: 111px;
+}
+
+.opacite {
+    background-color: black;
+}
+
+.col1{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4))  , url(../sources/images/Graphic\ Bg.svg) ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; /* ou contain selon le besoin */
+    border-radius: 15px;
+    color: white;
+}
+.col2{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4))  ,url(../sources/images/Cartoon\ Bg.svg) ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; /* ou contain selon le besoin */
+    border-radius: 15px;
+    color: white;
+}
+.col3{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4))  ,url(../sources/images/Illustration\ Bg.svg) ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; /* ou contain selon le besoin */
+    border-radius: 15px;
+    color: white;
+}
+.col4{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4))  ,url(../sources/images/Flyer\ Bg.svg) ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; /* ou contain selon le besoin */
+    border-radius: 15px;
+    color: white;
+    
+}
+
+.col5{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4))  ,url(../sources/images/Logo\ BG.svg) ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; /* ou contain selon le besoin */
+    border-radius: 15px;
+    color: white;
+}
+.col6{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4))  ,url(../sources/images/Social\ graphic\ Bg.svg) ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; /* ou contain selon le besoin */
+    border-radius: 15px;
+    color: white;
+}
+.col7{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4))  ,url(../sources/images/Article\ W\ Bg.svg) ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; /* ou contain selon le besoin */
+    border-radius: 15px;
+    color: white;
+}
+.col8{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4))  ,url(../sources/images/Video\ Bg.svg) ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; /* ou contain selon le besoin */
+    border-radius: 15px;
+    color: white;
+    
+}
